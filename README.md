@@ -28,3 +28,5 @@ Un scraper automatizado para MercadoLibre Argentina que busca lo primeros produc
 
 ```bash
 pip install selenium
+time
+csv
